@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tonyaquilino.github.io/notes-yz1hat/sitemap.xml
